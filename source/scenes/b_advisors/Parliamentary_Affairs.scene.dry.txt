@@ -1,0 +1,17 @@
+title: Parliamentary Affairs
+is-pinned-card: true
+tags: advisor
+card-image: img/reichstag_3.jpg
+on-arrival: last_party_action = 1
+new-page: true 
+
+= Parliamentary Affairs
+
+Rather than relying on random cards, we can instead choose directly which actions we want to take.
+
+- #parliamentary_affairs
+- @back: Return to main
+
+@back
+on-arrival: last_party_action = 0
+go-to: root
