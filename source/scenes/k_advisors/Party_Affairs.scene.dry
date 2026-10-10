@@ -10,8 +10,8 @@ new-page: true
 Rather than relying on random cards, we can instead choose directly which actions we want to take.
 
 - #kadet_party_affairs
-- @back: Return to main
+- @return: Return to main
 
-@back
+@return
 on-arrival: last_party_action = 0
 go-to: root
