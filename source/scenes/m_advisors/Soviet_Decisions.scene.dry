@@ -1,7 +1,7 @@
 title: Soviet Decisions
 is-pinned-card: true
 tags: advisor
-card-image: 
+card-image: img/soviet_1.jpg
 on-arrival: last_party_action = 1
 new-page: true 
 
