@@ -1,15 +1,15 @@
-title: Parliamentary Affairs
+title: Cabinet
 is-pinned-card: true
 tags: advisor
-card-image: img/reichstag_3.jpg
+card-image: 
 on-arrival: last_party_action = 1
 new-page: true 
 
-= Parliamentary Affairs
+= Cabinet
 
 Rather than relying on random cards, we can instead choose directly which actions we want to take.
 
-- #parliamentary_affairs
+- #provisional_government
 - @back: Return to main
 
 @back
